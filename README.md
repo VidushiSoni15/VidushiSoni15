@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VidushiSoni
-- I’m currently learning Machine Learnung & Data Science.
-- I’m looking to work on projects in the ML&Data Science Field and learn more about the same.
+- I’m currently learning Machine Learning & Data Science.
+- I’m looking to work on projects in the ML & Data Science Field and learn more about the same.
 
 
 <!---
